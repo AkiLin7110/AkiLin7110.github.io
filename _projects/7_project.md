@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: 交易策略_美股ETF_SectorRotation
 description: with background image
 img: assets/img/4.jpg
 importance: 1

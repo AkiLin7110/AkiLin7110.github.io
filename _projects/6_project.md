@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: 因子驗證
 description: a project with no image
 img:
 importance: 4

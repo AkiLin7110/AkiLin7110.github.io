@@ -1,13 +1,20 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Crowded Trades
+description: detect the market condition to earn profits
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Thesis
 ---
 
-Every project has a beautiful feature showcase page.
+<div class = "Abstract">
+<h3>Abstract</h3>
+This study explores the relationship between crowded trading and asset bubbles, providing a method to identify the stages of bubble expansion and burst. This method enables investors to profit during the price increase and sell before the price declines. 
+The study employs two methods to determine the stages of asset prices: centrality and relative value. The former assesses whether capital flows into or out of the asset, indicating the degree of capital movement in a few assets. When centrality is high, it suggests significant capital inflows or outflows. That increases the probability of price rises or sudden drops. The latter assesses whether the price has deviated from its actual value. When the relative value exceeds a certain threshold, the price may have deviated from its actual value, posing a risk of a bubble burst.
+Furthermore, this study integrates these methods with the Black-Litterman model. Combining centrality and relative value using this model performs dynamic asset allocation, achieving results superior to other models.
+</div>
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -18,7 +25,7 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
