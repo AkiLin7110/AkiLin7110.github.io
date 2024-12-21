@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [Thesis, 股票, Crypto, ETF, DataBase, Fun, Supply Chain]
+display_categories: [Thesis, 股票, Crypto, ETF, DataBase, Fun, Supply Chain, fun, work]
 horizontal: false
 ---
 

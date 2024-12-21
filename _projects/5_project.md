@@ -3,7 +3,7 @@ layout: page
 title: 擁擠交易：臺灣股市類股輪動策略
 description: 偵測市場動向以創造獲利
 img: assets/img/Thesis_8.jpg
-importance: 3
+importance: 1
 category: Thesis
 ---
 
