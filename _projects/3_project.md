@@ -68,12 +68,15 @@ related_publications: True
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/配對交易_美股_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/配對交易_美股_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
     <h3>未來展望</h3>
     <div>
         <ul>
-            <ul><li>從圖二中可以發現：策略一至三，在2014年之初期皆有較大虧損及週期性出現虧損之現象，因此能夠進一步用滾動的方式，計算該策略對於使用不同時間點之上下 界之敏感度，作為後續改善方向。</li></ul>
-            <ul><li>在此研究中，所提及之Portfolio為每一天進行 Equally Weighted，但實際上因每一時間點之倉位數量不同，將使資金無法達到最有效之運用。</li></ul>
+            <li>從圖二中可以發現：策略一至三，在2014年之初期皆有較大虧損及週期性出現虧損之現象，因此能夠進一步用滾動的方式，計算該策略對於使用不同時間點之上下 界之敏感度，作為後續改善方向。</li>
+            <li>在此研究中，所提及之Portfolio為每一天進行 Equally Weighted，但實際上因每一時間點之倉位數量不同，將使資金無法達到最有效之運用。</li>
         </ul>
     </div>
 
