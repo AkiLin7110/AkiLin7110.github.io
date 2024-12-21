@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 處置股
-description: 
+description: 開發當沖策略
 img: assets/img/12.jpg
 importance: 1
 category: 股票

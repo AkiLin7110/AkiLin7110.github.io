@@ -1,81 +1,97 @@
 ---
 layout: page
-title: Limit Open
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 1
-category: Stocks
-giscus_comments: true
+title: 漲停打開
+description: 找尋交易現象
+img: assets/img/12.jpg
+importance: 2
+category: 股票
+related_publications: False
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="Conclusion">
+    <h3>結論</h3>
+    <div class="characteristics" style="margin-left: 2em">
+        敲開金額與打開後之跌幅具有高度的關聯性。
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+
+<div class="Motivation">
+    <h3>研究動機</h3>
+    <ul>
+        <li>鎖漲停標的若盤中突然打開，可能存在一些交易機會，期望能夠在漲停打開的瞬間去做空標的，以此賺取獲利</li>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/漲停打開_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>   
+    </ul>
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<div class="Structure">
+    <h3>研究架構</h3>
+    <ul>
+        <li>觀察漲停打開與敲開金額的關聯性</li>
+        <li>獲利性及風險評估分析</li>
+        <li>定義：</li>
+        <ul>
+            <li>鎖漲停：委買第一檔出現市價單( Bid1=0, BidQty1>0)</li>
+            <li>漲停打開：鎖漲停後，成交價＜漲停價</li>
+            <li>累計的金額及張數：以漲停打開的時間點往前10秒計算</li>
+        </ul>
+    </ul>
+</div>
+
+<div class="Statistics">
+    <h3>統計結果</h3>
+    <ul>
+        <li>獲利性:打開後之漲跌幅</li>
+        <ul><li>若敲開金額越大，其平均跌幅便有可能越深</li></ul>
+    </ul>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/漲停打開_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <ul>
+        <li>風險評估:暫緩撮合後之漲跌幅</li>
+        <ul><li>暫緩搓合觸發機制：超過五分鐘內的平均價格正負3.5%。</li></ul>
+        <ul><li>若敲開金額越大，其暫緩撮合後的平均跌幅便有可能越深。</li></ul>
+    </ul>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/漲停打開_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/漲停打開_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <ul>
+        <li>風險評估:打開後收盤漲停機率</li>
+        <ul><li>若敲開金額越大，其收盤漲停機率越低。</li></ul>
+    </ul>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/漲停打開_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+
+<div class="Future">
+    <h3>未來展望</h3>
+    <div class="CurrentResearch">
+        <ul>
+            <li>本次研究</li>
+            <ul>
+                <li>確認漲停打開的收盤價位及收漲停，二者皆與敲開金額相關</li>
+            </ul>
+        </ul>
+    </div>
+    <div class="FutureDirections">
+        <ul>
+            <li>後續研究方向</li>
+            <ul>
+                <li>發展成交易策略</li>
+                <li>追查敲開金額來源分點，以追蹤特定倒貨行為</li>
+                </li>
+            </ul>
+        </ul>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+    
