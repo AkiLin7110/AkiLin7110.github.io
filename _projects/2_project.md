@@ -2,7 +2,7 @@
 layout: page
 title: 漲停打開
 description: 找尋交易現象
-img: assets/img/12.jpg
+img: assets/img/漲停打開_5.jpg
 importance: 2
 category: 股票
 related_publications: False
@@ -89,7 +89,6 @@ related_publications: False
             <ul>
                 <li>發展成交易策略</li>
                 <li>追查敲開金額來源分點，以追蹤特定倒貨行為</li>
-                </li>
             </ul>
         </ul>
     </div>
