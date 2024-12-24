@@ -18,8 +18,7 @@ related_publications: True
 <div class="Motivation">
     <h3>研究動機</h3>
     <div class="characteristics" style="margin-left: 2em">
-        實作論文{% cite chen2017pair %}，配對交易（Pair Trading）是一種採用統計套利以追求絕對報酬的交易策略。本研究選擇34檔股票，利用最小平方距離（Minimum Square Distance, MSD）挑選出10組相關性較高的股票配對，結合異質平滑函數及最大概似估計法建立模型，
-        生成進出場訊號。目的是評估這些模型及策略的績效表現。
+        實作論文{% cite chen2017pair %}，配對交易（Pair Trading）是一種採用統計套利以追求絕對報酬的交易策略。本研究選擇34檔股票，利用最小平方距離（Minimum Square Distance, MSD）挑選出10組相關性較高的股票配對，結合異質平滑函數及最大概似估計法建立模型，生成進出場訊號。目的是評估這些模型及策略的績效表現。
     </div>
 </div>
 
