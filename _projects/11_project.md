@@ -2,23 +2,23 @@
 layout: page
 title: 廣義基金比例框架下的投資組合決策應用
 description: 驗證了Leibowitz提出的投資組合方法
-img: assets/img/處置股_5.jpg
+img: assets/img/GFRF_7.jpg
 importance: 1
 category: ETF
-related_publications: False
+related_publications: True
 ---
 
 <div class="Conclusion">
     <h3>結論</h3>
     <div class="characteristics" style="margin-left: 2em">
-        研究驗證了Martin L. Leibowitz提出的投資組合構建方法，在表現上顯著優於傳統的最大夏普比率組合。研究中觀察了多種變數對該方法的影響，並嘗試在投資組合中加入現金部位以減少經濟衰退期間的損失。
+        研究驗證了Martin L. Leibowitz提出的投資組合構建方法{% cite leibowitz2022portfolio %}，在表現上顯著優於傳統的最大夏普比率組合。研究中觀察了多種變數對該方法的影響，並嘗試在投資組合中加入現金部位以減少經濟衰退期間的損失。
     </div>
 </div>
 
 <div class="Motivation">
     <h3>研究動機</h3>
     <div class="characteristics" style="margin-left: 2em">
-    本研究旨在測試並延伸Martin L. Leibowitz提出的「廣義基金比例框架下的投資組合決策方法」。Leibowitz在現代投資組合理論中加入了成功機率與目標報酬率的概念，但其研究中缺乏對投資組合實際結果的驗證，因此本研究重點在於實驗結果與延伸應用。
+        本研究旨在測試並延伸Martin L. Leibowitz提出的「廣義基金比例框架下的投資組合決策方法」。Leibowitz在現代投資組合理論中加入了成功機率與目標報酬率的概念，但其研究中缺乏對投資組合實際結果的驗證，因此本研究重點在於實驗結果與延伸應用。
     </div>
 </div>
 
