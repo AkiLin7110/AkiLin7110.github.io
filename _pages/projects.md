@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [Thesis, 股票, 加密貨幣, ETF, 真實波動度, 其他, Fun, Supply Chain]
+display_categories: [Thesis, 股票, 加密貨幣, ETF, 選擇權, 真實波動度, 其他, Fun, Supply Chain]
 horizontal: false
 ---
 
