@@ -132,57 +132,50 @@
       "courses": ""
     }
   ],
-  "awards": [
+  "榮譽與獎項": [
     {
       "title": "書香獎",
       "date": "2018",
       "awarder": "國立中山大學",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "",
       "summary": ""
+    },
+    {
+      "title": "Top 3%",
+      "date": "2023",
+      "awarder": "WORLDQUANT",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "BincentiveXTMBA",
+      "date": "2023",
+      "awarder": "Bincentive",
+      "url": "http://127.0.0.1:8080/projects/4_project/",
+      "summary": "ADF配對交易"
     }
   ],
-  "certificates": [
+  "認證": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Intro to SQL",
+      "date": "2024/12/09",
+      "issuer": "kaggle",
+      "url": "https://www.kaggle.com/learn/certification/akilin/intro-to-sql",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Advanced SQL",
+      "date": "2024/12/12",
+      "issuer": "kaggle",
+      "url": "https://www.kaggle.com/learn/certification/akilin/advanced-sql",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "TOEFL 92",
+      "date": "2024/12/14",
+      "issuer": "Educational Testing Service",
       "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
