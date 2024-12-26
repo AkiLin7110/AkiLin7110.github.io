@@ -60,6 +60,31 @@
       "highlights": ["Python, R"]
     }
   ],
+  "教育背景": [
+    {
+      "institution": "國立政治大學",
+      "location": "臺灣",
+      "url": "",
+      "area": "財務工程",
+      "studyType": "碩士",
+      "startDate": "2022/09",
+      "endDate": "2024/06",
+      "score": "4.22/4.3",
+      "courses": ""
+    },
+    {
+      "institution": "國立清華大學",
+      "location": "臺灣",
+      "url": "",
+      "area": "計量財務金融學系",
+      "studyType": "學士",
+      "startDate": "2020/02",
+      "endDate": "2022/06",
+      "score": "3.56/4.3",
+      "courses": ""
+    }
+  ],
+  
   "校外經歷": [
     {
       "organization": "TMBA 程式交易部",
@@ -108,30 +133,6 @@
     }
     
   ],
-  "教育背景": [
-    {
-      "institution": "國立政治大學",
-      "location": "臺灣",
-      "url": "",
-      "area": "財務工程",
-      "studyType": "碩士",
-      "startDate": "2022/09",
-      "endDate": "2024/06",
-      "score": "4.22/4.3",
-      "courses": ""
-    },
-    {
-      "institution": "國立清華大學",
-      "location": "臺灣",
-      "url": "",
-      "area": "計量財務金融學系",
-      "studyType": "學士",
-      "startDate": "2020/02",
-      "endDate": "2022/06",
-      "score": "3.56/4.3",
-      "courses": ""
-    }
-  ],
   "榮譽與獎項": [
     {
       "title": "書香獎",
@@ -171,9 +172,9 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "TOEFL 92",
-      "date": "2024/12/14",
-      "issuer": "Educational Testing Service",
+      "name": "證券商高級業務員",
+      "date": "2023/07/12",
+      "issuer": "證券暨期貨市場發展基金會",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     }
@@ -201,7 +202,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "技能": [
     {
       "name": "Physics",
       "level": "Master",
@@ -216,29 +217,25 @@
       ]
     }
   ],
-  "languages": [
+  "語言能力": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent(TOEFL 92, TOEIC 880)",
       "icon": ""
     }
   ],
-  "interests": [
+  "興趣": [
     {
-      "name": "Physics",
+      "name": "Trading Strategy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Pair Trades",
+        "CB"
       ]
     }
   ],

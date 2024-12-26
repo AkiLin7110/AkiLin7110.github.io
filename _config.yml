@@ -630,12 +630,12 @@ jsonresume:
   - 基本資訊
   - 工作經歷
   - 教育背景
-  - publications
-  - projects
+  # - publications
+  # - projects
   - 校外經歷
   - 榮譽與獎項
   - 認證
-  - skills
-  - languages
-  - interests
-  - references
+  # - 技能
+  - 語言能力
+  - 興趣
+  # - references

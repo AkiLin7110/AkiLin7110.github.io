@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <strong> Top Skills </strong> 
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -10,6 +10,7 @@ profile:
   image: prof_pic_NTHU.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>新竹縣湖口鄉德盛村</p>
     <p>0976011371</p>
     <p>akilin7110@gmail.com</p>
 
