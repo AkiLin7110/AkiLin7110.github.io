@@ -227,11 +227,11 @@
   ],
   "興趣": [
     {
-      "name": "Trading Strategy",
+      "name": "交易策略",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Pair Trades",
-        "CB"
+        "配對交易",
+        "可轉債"
       ]
     }
   ],
