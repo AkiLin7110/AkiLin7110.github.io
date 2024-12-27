@@ -26,7 +26,6 @@
     {
       "name": "元大證券股份有限公司 計量交易部",
       "position": "計量實習生",
-      "url": "https://example.com",
       "startDate": "2023/09",
       "endDate": "2024/01",
       "summary": "建立國內外股票資料庫並自動更新，觀察市場交易現象尋找套利機會，開發並回測交易策略，同時衡量真實波動度，提升交易決策效率與準確性。",
@@ -35,16 +34,14 @@
     {
       "name": "凱基證券股份有限公司 債券部",
       "position": "風控實習生",
-      "url": "https://example.com",
       "startDate": "2023/07",
       "endDate": "2023/08",
-      "summary": "協助交易員進行LIBOR到SOFR改制影響性分析，評估其對交易部位的潛在衝擊；發現Bloomberg在DV01計算上的錯誤，並提出修正建議；進行同業財報分析，支持市場競爭與投資決策。",
+      "summary": "協助交易員進行LIBOR到SOFR改制影響性分析，評估其對交易部位的潛在衝擊；發現Bloomberg在DV01計算上的錯誤，並提出修正建議。",
       "highlights": ["Python, Bloomberg"]
     },
     {
       "name": "高曼計量財務管理顧問股份有限公司 計量研究部",
       "position": "計量實習生",
-      "url": "https://example.com",
       "startDate": "2022/08",
       "endDate": "2023/07",
       "summary": "負責研究Long Only資產配置，如產業輪動及市場風向標，以總經指標評估市況，實現資金分散與資產配置優化，策略績效超越大盤，並具更高Sharpe Ratio及較低DD。",
@@ -53,7 +50,6 @@
     {
       "name": "元大證券股份有限公司 金融交易部",
       "position": "實習生",
-      "url": "https://example.com",
       "startDate": "2022/02",
       "endDate": "2022/06",
       "summary": "研究國外論文的日內動量交易策略，並將其應用於台灣股市進行驗證；利用 PTT Stock 板資料，透過文字探勘與量化分析評估其對隔日台股波動的影響。這些專案展現了技術整合與交易市場應用的能力。",
@@ -65,7 +61,7 @@
       "institution": "國立政治大學",
       "location": "臺灣",
       "url": "",
-      "area": "財務工程",
+      "area": "金融所財務工程組",
       "studyType": "碩士",
       "startDate": "2022/09",
       "endDate": "2024/06",
@@ -219,13 +215,13 @@
   ],
   "語言能力": [
     {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
+      "language": "中文",
+      "fluency": "母語人士",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent(TOEFL 92, TOEIC 880)",
+      "language": "英文",
+      "fluency": "流利(TOEFL 92, TOEIC 880)",
       "icon": ""
     }
   ],

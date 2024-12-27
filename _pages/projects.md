@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: 專案
 permalink: /projects/
-description: A growing collection of my cool projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [Thesis, 股票, 加密貨幣, ETF, 選擇權, 真實波動度, 其他]
+display_categories: [論文, 股票, 加密貨幣, ETF, 選擇權, 真實波動度, 其他]
 horizontal: false
 ---
 
