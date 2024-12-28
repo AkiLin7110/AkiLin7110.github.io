@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [論文, 股票, 加密貨幣, ETF, 選擇權, 真實波動度, 其他]
+display_categories: [論文, 股票, 加密貨幣, ETF, 選擇權, 真實波動度, 風險分析, 其他]
 horizontal: false
 ---
 
